@@ -3,7 +3,6 @@
 ## Autores
 - [David/Propietario]: [https://github.com/daavidpelaeez/Viajes_Ana_David]
 - [Ana/colaboradora]: [https://github.com/anarodriguezm/Viajes_Ana_David]
-- ...
 
 ## Temática del Sitio Web
 
